@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=FooBar
+Name[de_DE]=FööBär
+Comment=A foo-ish bar.
+Keywords=Flubber;Test;Meh;
+Keywords[de_DE]=Goethe;Schiller;Kant;
+X=true
+N=1
+O=1.0

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=FooCorp Painter Pro
+Exec=foocorp-painter-pro
+Icon=foocorp-painter-pro
+Type=Application
+Categories=GTK;GNOME;Utility;
